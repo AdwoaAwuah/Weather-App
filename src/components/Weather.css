@@ -1,0 +1,30 @@
+
+body{
+    background-image: url(C:\Users\LENOVO\Desktop\weather-app\weather1\src\assests\login.jpg);
+    background-size: cover;
+    background-position: center;
+    
+
+}
+@media all and (min-width: 480px) {
+.weather{
+    text-align: center;
+   
+          padding: 60px 0;}
+        
+}
+
+.weather form {
+    margin: 0 auto;
+  }
+
+input{
+    border: none;
+    border-bottom: 2px solid black;
+}
+
+button{
+    background-color: brown;
+    border-radius: 5px;
+    cursor: pointer;
+}
